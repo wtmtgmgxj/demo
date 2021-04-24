@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\boot",
+    "\\src\\components",
+    "\\src\\components\\search",
+    "\\src\\layouts",
+    "\\src\\pages"
+  ],
+  "SelectedNode": "\\src\\components\\search\\CountryDropDown.vue",
+  "PreviewInSolutionExplorer": false
+}
